@@ -8,5 +8,6 @@ colab: https://colab.research.google.com/drive/1xvtrxcjdwN3U8U-o6aICgXeh5EuTodPA
 
 Kaggle kodunu public e alamadığım için link koymadım 
 
-efficentnet3 9422.pth 121 mb olduğu için yüklemedim .İsterseniz drive'a atıp linkini paylaşabilirim
+efficentnet3 9422.pth 121 mb olduğu için yüklemedim
 
+model: https://drive.google.com/file/d/1zNs34BhPEHWMJwkEPDNczyJoN6lxSEn_/view?usp=sharing
